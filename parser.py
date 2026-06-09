@@ -58,4 +58,4 @@ def apply_effect_to_str(
     if indent is None:
         return PixelParser.dumps(record)
     return json.dumps(record, indent=indent, default=str)
-# Last sync: 2026-06-09 02:52:07 UTC
+# Last sync: 2026-06-09 03:19:26 UTC
